@@ -1,5 +1,5 @@
 # sales_front
-set up env:
+## set up env:
 npm install
 
 run local:
