@@ -1,0 +1,9 @@
+node_modules
+dist
+.umi
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
